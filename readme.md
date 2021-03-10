@@ -1,6 +1,10 @@
 # 常用计算模块
 ## 埋件计算
 $$p_{kmax} = \frac{2(F_k + G_k)}{3la} =  \frac{2 \times ( 880 + 1350 + 16625 )}{3 \times 66.5 \times 0.76 }                  = 248.71 kPa$$
+$$
+p_{kmax} = \frac{2(F_k + G_k)}{3la} =  \frac{2 \times ( 880 + 1350 + 16625 )}{3 \times 66.5 \times 0.76 }                  = 248.71 kPa
+$$
+
 
 ## 外挂架计算
 
