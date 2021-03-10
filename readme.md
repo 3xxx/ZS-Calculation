@@ -13,7 +13,7 @@ Python自动化计算代码是以.py为后缀的文件，需下载到电脑，�
 推荐使用第三方代码编辑软件：
 
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [局域网下载VScode](‪https://xuming.science/file/VC.rar)
+* [局域网下载VScode](https://xuming.science/file/VS.rar)
 
 
 ## 埋件计算
