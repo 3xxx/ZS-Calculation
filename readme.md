@@ -9,7 +9,7 @@ Python自动化计算代码是以.py为后缀的文件，需下载到电脑，�
 
 * [Python3.8.8 下载](https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe)
 * [局域网下载Python](https://xuming.science/python.php)
-* [下载](‪https://xuming.science/2.php)
+* [下载](‪http://192.168.16.198/xuming.science/v.php)
 
 推荐使用第三方代码编辑软件：
 
