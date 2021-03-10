@@ -11,11 +11,11 @@ Python自动化计算代码是以.py为后缀的文件，需下载到电脑，�
 
 * [局域网下载Python](https://xuming.science/python.php)
 
-推荐使用第三方代码编辑软件：[局域网下载vscode](‪https://xuming.science/vcode.php)
+推荐使用第三方代码编辑软件：
 
 * [Visual Studio Code 下载](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
-
+* [局域网下载](‪https://xuming.science/v.php)
 
 
 ## 埋件计算
