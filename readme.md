@@ -1,28 +1,28 @@
-# 常用计算模块
-## 使用环境
+# ANSYS有限元分析+Python自动化
+## 0. 使用环境
 
 ANSYS宏文件是以.mac为后缀的文件，又称命令流文件。可在经典模式下使用，能够简化操作提高计算效率。
 
-推荐使用ANSYS19或19.1版本，最低不能低于18，也**不能使用更高版本**，最新的版本中对link10单元不再支持，会影响某些宏命令。
+推荐使用ANSYS19或19.1版本，最低不能低于18，也不能使用更高版本，最新的版本中对link10单元不再支持，会影响某些宏命令。
 
-Python自动化计算代码是以.py为后缀的文件，需下载到电脑，且安装相关的执行软件方能运行。
+Python自动化计算代码是以.py为后缀的文件，需下载到电脑，且安装相关的执行软件方能运行。**安装Python时注意要勾选相关选项**（暂时无法截图说明）。
 
 * [Python3.8.8 下载](https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe)
-* [**局域网下载Python**](https://xuming.science/file/python.rar)
+* [局域网下载Python](https://xuming.science/file/python.rar)
 
-推荐**安装使用Visual Studio Code**代码编辑软件：
+推荐安装使用Visual Studio Code代码编辑软件：
 
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [**局域网下载VScode**](https://xuming.science/file/VS.rar)
+* [局域网下载VScode](https://xuming.science/file/VS.rar)
 
-**Python修改pip源地址**
+### 0.1. Python修改pip源地址
 
 1. 下载所需文件[pip.ini](docs/pip.ini)
 2. 打开C盘当前用户的文件夹，例如`C:\Users\Administrator`
 3. 在用户目录下新建名为`pip`的文件夹
 4. 将第一步下载的文件移动到第三步新建的文件夹内，最终该文件的路径如前例所示为`C:\Users\Administrator\pip\pip.ini`
 
-### 常用python模块安装
+### 0.2. 常用python模块安装
 
 python代码通常会调用一些第三方模块，需要提前安装才能正常运行代码。
 
@@ -41,20 +41,17 @@ pip install matplotlib
 ```
 ![cmd2](images/cmd2.png)
 
-## 埋件计算
+## 1. 埋件计算
 
+## 2. 外挂架计算
 
-## 外挂架计算
+## 3. 内爬钢梁计算
 
+## 4. 附着计算
 
+## 5. 压杆稳定校核
 
-## 内爬钢梁计算
-
-## 附着计算
-
-## 压杆稳定校核
-
-## 在线计算小工具
+## 6. 在线计算小工具
 
 *（仅适用于公司内部网络）*
 
@@ -62,7 +59,7 @@ pip install matplotlib
 * [动臂吊臂头部侧向等效载荷计算](http://192.168.16.198/pianbai.php)
 * [塔机固定基础稳定及所需地耐力估算](http://192.168.16.198/jichu.php)
 
-## ANSYS常用技术
+## 7. ANSYS常用技术
 
 [ANSYS画弯矩图、剪力图、轴力图](ANSYS画弯矩图、剪力图、轴力图.md)
 
