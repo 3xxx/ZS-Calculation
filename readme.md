@@ -7,15 +7,15 @@ ANSYS宏文件是以.mac为后缀的文件，又称命令流文件。可在经�
 
 Python自动化计算代码是以.py为后缀的文件，需下载到电脑，且安装相关的执行软件方能运行。
 
-[Python3.8.8 下载](https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe)
+* [Python3.8.8 下载](https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe)
 
-[内网下载](https://xuming.science/python.php)
+* [内网下载](https://xuming.science/python.php)
 
 推荐使用第三方代码编辑软件：
 
-[Visual Studio Code 下载](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+* [Visual Studio Code 下载](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
-[内网下载](‪https://xuming.science/vscode.php)
+* [内网下载](‪https://xuming.science/vscode.php)
 
 
 ## 埋件计算
