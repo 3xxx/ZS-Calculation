@@ -15,7 +15,7 @@ Python自动化计算代码是以.py为后缀的文件，需下载到电脑，�
 
 * [Visual Studio Code 下载](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
-* [局域网下载](‪https://xuming.science/v.php)
+* [局域网下载](‪https://www.xuming.science/v.php)
 
 
 ## 埋件计算
