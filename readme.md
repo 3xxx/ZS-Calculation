@@ -9,13 +9,13 @@ Python自动化计算代码是以.py为后缀的文件，需下载到电脑，�
 
 [Python3.8.8 官方下载](https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe)
 
-[Python3.8.5 内部网络下载](‪http://192.168.16.198/python.html)
+[Python3.8.5 内部网络下载](http://‪192.168.16.198/python.php)
 
 推荐使用第三方代码编辑软件：
 
 [Visual Studio Code 官方最新下载](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
-[Visual Studio Code 内部网络下载](‪http://192.168.16.198/vscode.html)
+[Visual Studio Code 内部网络下载](‪http://192.168.16.198/vscode.php)
 
 ## 埋件计算
 
