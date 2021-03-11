@@ -1,4 +1,4 @@
 theme: jekyll-theme-modernist
 markdown: kramdown
 kramdown:
-    math_engine: katex
+    math_engine: nil
