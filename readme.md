@@ -20,7 +20,7 @@ Python自动化计算代码是以.py为后缀的文件，需下载到电脑，�
 
 ### 0.1. Python修改pip源地址
 
-1. 下载所需文件[pip.ini(右击链接另存为)](docs/pip.ini)
+1. 下载所需文件[pip.ini(右击链接另存为)](./docs/pip.ini)
 2. 打开C盘当前用户的文件夹，例如`C:\Users\Administrator`
 3. 在用户目录下新建名为`pip`的文件夹
 4. 将第一步下载的文件移动到第三步新建的文件夹内，最终该文件的路径如前例所示为`C:\Users\Administrator\pip\pip.ini`
@@ -33,7 +33,7 @@ python代码通常会调用一些第三方模块，需要提前安装才能正�
 
 1. 按<kbd>Win</kbd> + <kbd>R</kbd> 调出运行窗口，输入cmd，点击确定，调出命令控制行
 
-![cmd](images/cmd.png)
+![cmd](./images/cmd.png)
 
 2. 逐行复制粘贴以下代码到命令控制行，粘贴一行按下回车，逐行操作
 ```
@@ -42,7 +42,7 @@ pip install pandas
 pip install Pillow
 pip install matplotlib
 ```
-![cmd2](images/cmd2.png)
+![cmd2](./images/cmd2.png)
 
 ## 1. 在线计算小工具
 
