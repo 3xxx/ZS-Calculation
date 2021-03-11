@@ -3,15 +3,15 @@
 
 ANSYS经典模式默认的工具栏可以根据工作需要自由定义常用的命令按钮
 
-![toolbar](images\toolbar.png)
+![toolbar](./images/toolbar.png)
 
 
 
 用到的文件：
 
-1. [MyPrepare.mac](macs/MyPrepare.mac)
+1. [MyPrepare.mac](./macs/MyPrepare.mac)
 
-2. [start.ans](macs/start.ans)
+2. [start.ans](./macs/start.ans)
 
 下载以上两个文件，放在目录：
 
