@@ -15,5 +15,5 @@
 
    ![python3](./images/python3.png)
 
-4. 修改安装路径，然后点Install安装![python4](./images/python4.png)
+4. 修改安装路径（非必须，但是建议），然后点Install安装![python4](./images/python4.png)
 
