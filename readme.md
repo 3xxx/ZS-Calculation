@@ -8,7 +8,7 @@ ANSYS宏文件是以.mac为后缀的文件，又称命令流文件。可在经�
 
 推荐使用ANSYS19或19.1版本，最低不能低于18，也不能使用更高版本，最新的版本中对link10单元不再支持，会影响某些宏命令。
 
-Python自动化计算代码是以.py为后缀的文件，需下载到电脑，且安装相关的执行软件方能运行。**安装Python时注意要勾选相关选项**（暂时无法截图说明）。
+Python自动化计算代码是以.py为后缀的文件，需下载到电脑，且安装相关的执行软件方能运行。**安装Python时注意要勾选相关选项**（[python安装步骤说明](python安装步骤说明.md)）。
 
 * [Python3.8.8 下载](https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe)
 * [局域网下载Python](https://xuming.science/file/python.rar)
